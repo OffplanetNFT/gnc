@@ -1,0 +1,19 @@
+:root { 
+  --black: #000000;
+  --red-berry: #990000;
+  --white: #ffffff;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 11px;
+  --font-size-xl: 64px;
+ 
+  --font-family-dunbar_tall-extrabold: "Dunbar Tall-ExtraBold", Helvetica;
+  --font-family-dunbar_tall-ultra: "Dunbar Tall-Ultra", Helvetica;
+}
+.dunbartall-ultra-normal-red-berry-18px {
+  color: var(--red-berry);
+  font-family: var(--font-family-dunbar_tall-ultra);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
